@@ -1,0 +1,12 @@
+{
+    "name": "gpt",
+    "version": "1.0.0",
+    "main": "api/scrape.js",
+    "dependencies": {
+      "axios": "^0.24.0"
+    },
+    "engines": {
+      "node": "16.x"
+    }
+  }
+  
